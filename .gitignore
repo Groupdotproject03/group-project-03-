@@ -1,0 +1,6 @@
+Uploads/
+app/config/config.php
+.idea/
+*.log
+.DS_Store
+Thumbs.db
