@@ -38,7 +38,7 @@ Features:
 Tech Stack
 - **Backend:** PHP (custom MVC framework — no external framework)
 - **Database:** MySQL / MariaDB
-- **PDF Generation:** [FPDF](http://www.fpdf.org/) (bundled in `/fpdf`)
+- **PDF Generation:** [FPDF](http://www.fpdf.org/) 
 - **Frontend:** HTML, CSS, JavaScript (server-rendered views)
 
 Project Structure
