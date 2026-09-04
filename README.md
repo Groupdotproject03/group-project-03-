@@ -37,10 +37,10 @@ Features:
 - Review submitted samples/medical reports
 
 Tech Stack
-- **Backend:** PHP (custom MVC framework — no external framework)
-- **Database:** MySQL / MariaDB
-- **PDF Generation:** [FPDF](http://www.fpdf.org/) 
-- **Frontend:** HTML, CSS, JavaScript (server-rendered views)
+- **Backend:** PHP (MVC framework)
+- **Database:** MySQ
+- **PDF Generation:** [FPDF]
+- **Frontend:** HTML, CSS, JavaScript
 
 Project Structure
 ```
